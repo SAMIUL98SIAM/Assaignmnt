@@ -1,0 +1,38 @@
+img{display: none;}
+header{background-color: #C0C0C0;}
+h1{
+	color :#FFFFFF;
+	text-align: center;
+
+}
+h1:hover{
+	color: black;
+}
+h2{
+	color:rgb(0,0,255);
+}
+a{
+	color: black;
+	background-color: #D3D3D3;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+section{
+	background-color: #A9A9A9;
+}
+table{
+
+}
+p{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;	
+
+}
+table, td, th {
+    border: 2px solid DimGray;
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    text-align: left;
+}
